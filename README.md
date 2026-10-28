@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hugo 👋
 
-<!--
-**hugo-g-neves/hugo-g-neves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & Machine Learning student at CEUB (Brasília, Brazil), graduating in 2027.
 
-Here are some ideas to get you started:
+I'm building a portfolio of end-to-end data projects focused on Alberta, Canada:
+real public data, clear business questions, and dashboards anyone can use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently working on
+- **Alberta Electricity Demand Forecasting**: predicting provincial power demand
+  using public grid and weather data
+
+## 🛠️ Tools
+Python · SQL · R · Pandas · Scikit-learn · Streamlit · Power BI · Git
+
+## 📫 Contact
+hugogalvaoneves@gmail.com
